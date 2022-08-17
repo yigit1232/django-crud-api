@@ -3,6 +3,6 @@ Django Rest Framework (DRF)  CRUD Process
 
 ### Images 
 
-![Adsız](https://user-images.githubusercontent.com/50154629/185155761-429bbf53-3f11-43c1-9283-eb697d807366.png)
+![Adsız](https://user-images.githubusercontent.com/50154629/185155973-b1d8f3d1-2bec-4370-a018-5730480bd438.png)
 
 
